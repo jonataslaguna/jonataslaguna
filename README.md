@@ -1,4 +1,4 @@
-## Hello! My name is Jonatas Laguna
+## Hello! My name's Jonatas Laguna
 
 ![Jonatas Laguna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonataslaguna&show_icons=true&theme=dark)
 
