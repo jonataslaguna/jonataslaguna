@@ -1,4 +1,4 @@
-## Hello! my name's Jonatas Laguna, I'm a web development student
+## Hello! My name's Jonatas Laguna, I'm a web development student
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonataslaguna&show_icons=true&theme=dark)
 
