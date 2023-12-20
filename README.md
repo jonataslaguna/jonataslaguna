@@ -1,13 +1,15 @@
-## Welcome to my GitHub profile
+## Welcome to My GitHub Profile 
+
+Connect with me:
 
 <div>
  <a href="https://www.linkedin.com/in/jonataslaguna/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jonataslaguna.js@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+ <a href="mailto:jonataslaguna.js@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 </div>
 
 #
 
-<p>Access my <a href="https://jonatas-laguna.vercel.app">portfolio</a>!</p>
+Check out my [portfolio](https://jonatas-laguna.vercel.app)!
 
 #
 
