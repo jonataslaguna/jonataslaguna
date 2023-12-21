@@ -8,8 +8,7 @@ Connect with me:
 </div>
 
 #
-
-Check out my [portfolio](https://jonatas-laguna.vercel.app)!
+[![Check out my portfolio](https://img.shields.io/badge/Check%20out%20my-portfolio-blue)](https://jonatas-laguna.vercel.app)
 
 #
 
